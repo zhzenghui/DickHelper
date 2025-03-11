@@ -147,7 +147,7 @@ export const StatsChart = () => {
         <Box sx={{ 
             mt: 4,
             width: '100%',
-            maxWidth: '600px',
+            maxWidth: '800px',
             mx: 'auto'
         }}>
             <Typography 
